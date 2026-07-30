@@ -1,7 +1,9 @@
 # open-volume-mixer
-When I run an application in full screen mode on Windows, the volume mixer in the system tray often becomes hidden. This makes it awkward to change the volume without tabbing out of whatever you are doing.
+When running an application in full-screen or windowed full-screen mode on Windows, the volume mixer in the system tray often becomes hidden. This makes it awkward to change the volume without tabbing out of whatever you are doing.
 
-Windows Volume Mixer opens by default on your primary monitor, so this application opens it and places it at a position of your choosing, on a monitor of your choosing.
+Windows Volume Mixer opens by default on the primary monitor, and does not remember its position when closed and re-opened.
+
+This application solves these issues by opening Volume Mixer and placing it at a position of your choosing, on a monitor of your choosing.
 
 
 ## Usage
