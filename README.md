@@ -10,6 +10,8 @@ Windows Volume Mixer opens by default on your primary monitor, so this applicati
 - Unzip the zip file, and move `Open Volume Mixer.exe` to an appropriate location of your choice.
 - Run `Open Volume Mixer.exe`
 
+As this is an executable, you can right click it and pin it to the taskbar, or create a desktop shortcut for it. This allows you to easily access volume controls using another monitor, even if the system tray is hidden on your primary monitor.
+
 ## Configuration
 
 The first time you run `Open Volume Mixer`, it will create a file called `Open Volume Mixer.ini` if it doesn't already exist. This contains the monitor and position that Volume Mixer will be moved to.
