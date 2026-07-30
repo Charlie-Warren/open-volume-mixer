@@ -6,7 +6,8 @@ Windows Volume Mixer opens by default on your primary monitor, so this applicati
 
 ## Usage
 
-- Download `Open Volume Mixer.exe` from the [Releases](https://github.com/Charlie-Warren/open-volume-mixer/releases) section of this repository.
+- Download `open-volume-mixer.zip` from the [Releases](https://github.com/Charlie-Warren/open-volume-mixer/releases) section of this repository.
+- Unzip it
 - Run `Open Volume Mixer.exe`
 
 ## Configuration
